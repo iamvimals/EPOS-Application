@@ -1,0 +1,9 @@
+82747290,03-12-2021,Georgio Armani,XS(36),5,5750.00,Vimal Shetty,9898989898,v@s.com,PayPal
+75833440,03-12-2021,Dolce & Gabbana,XS(36),5,10550.00,Warren Buffet,2837878787,w@b.com,Cash
+75833440,03-12-2021,Georgio Armani,XS(36),5,5750.00,Warren Buffet,2837878787,w@b.com,Cash
+15152852,03-12-2021,Georgio Armani,XS(36),5,5750.00,Elon Musk,2716767676,e@m.com,Credit/Debit Card
+15152852,03-12-2021,Gucci Suits,XS(36),5,36625.00,Elon Musk,2716767676,e@m.com,Credit/Debit Card
+69124712,03-12-2021,Georgio Armani,XS(36),5,5750.00,Jordan Belfort,2322222222,j@b.com,Credit/Debit Card
+85834036,03-12-2021,Gucci Suits,XS(36),5,36625.00,Jeff Bezos,2718217827,j@b.com,Credit/Debit Card
+97859519,03-12-2021,Dolce & Gabbana,XS(36),5,10550.00,Charlie Munger,9898989890,c@m.com,PayPal
+38416682,03-12-2021,Canali Suits,XS(36),10,12680.00,Benjamin Graham,2345678901,b@g.com,PayPal

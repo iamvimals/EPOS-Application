@@ -1,0 +1,13 @@
+C:\Users\vileg\source\repos\EPOSApplication\EPOSApplication\bin\Debug\EPOSApplication.exe.config
+C:\Users\vileg\source\repos\EPOSApplication\EPOSApplication\bin\Debug\EPOSApplication.exe
+C:\Users\vileg\source\repos\EPOSApplication\EPOSApplication\bin\Debug\EPOSApplication.pdb
+C:\Users\vileg\source\repos\EPOSApplication\EPOSApplication\obj\Debug\EPOSApplication.csprojAssemblyReference.cache
+C:\Users\vileg\source\repos\EPOSApplication\EPOSApplication\obj\Debug\EPOSApplication.MainForm.resources
+C:\Users\vileg\source\repos\EPOSApplication\EPOSApplication\obj\Debug\EPOSApplication.Properties.Resources.resources
+C:\Users\vileg\source\repos\EPOSApplication\EPOSApplication\obj\Debug\EPOSApplication.csproj.GenerateResource.cache
+C:\Users\vileg\source\repos\EPOSApplication\EPOSApplication\obj\Debug\EPOSApplication.csproj.CoreCompileInputs.cache
+C:\Users\vileg\source\repos\EPOSApplication\EPOSApplication\obj\Debug\EPOSApplication.exe
+C:\Users\vileg\source\repos\EPOSApplication\EPOSApplication\obj\Debug\EPOSApplication.pdb
+C:\Users\vileg\source\repos\EPOSApplication\EPOSApplication\obj\Debug\EPOSApplication.SearchOrderForm.resources
+C:\Users\vileg\source\repos\EPOSApplication\EPOSApplication\obj\Debug\EPOSApplication.StocksAvailability.resources
+C:\Users\vileg\source\repos\EPOSApplication\EPOSApplication\obj\Debug\EPOSApplication.CustomerInfo.resources
